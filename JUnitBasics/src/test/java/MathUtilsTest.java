@@ -46,7 +46,7 @@ public class MathUtilsTest {
         boolean value = true;
         assumeTrue(value);
         testReporter.publishEntry("Running" + testInfo.getDisplayName() + "with tags" + testInfo.getTags());
-        assertEquals(314, mathUtils.circleArea(10), "will returns circle area");
+        assertEquals(314, mathUtils.circleArea(10), "returns circle area");
 
     }
 
