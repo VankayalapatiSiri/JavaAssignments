@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c45e9cd-4339-4bfe-a559-900077db5ead" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUnitBasics/JUnitBasics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUnitBasics/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUnitBasics/src/main/java/MathUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUnitBasics/src/test/java/MathUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mockito.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maersk/mock/ExternalService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maersk/mock/MyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/maersk/mock/MockitoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/maersk/mock/MockitoTest.class" afterDir="false" />
+    <list default="true" id="3c45e9cd-4339-4bfe-a559-900077db5ead" name="Default Changelist" comment="Merge branch 'Mockito' of https://github.com/VankayalapatiSiri/JavaAssignments into Mockito&#10;&#10;# Conflicts:&#10;#&#9;Mockito/target/test-classes/com/maersk/mock/MockitoTest.class&#10;updating">
+      <change beforePath="$PROJECT_DIR$/../Assignment4/JavaAssignments" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/JavaAssignments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Assignments" />
   </component>
   <component name="RunManager" selected="JUnit.All in Mockito">
     <configuration name="All in Mockito (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -113,6 +102,21 @@
       <option name="presentableId" value="Default" />
       <updated>1611668893135</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'Mockito' of https://github.com/VankayalapatiSiri/JavaAssignments into Mockito&#10;&#10;# Conflicts:&#10;#&#9;Mockito/target/test-classes/com/maersk/mock/MockitoTest.class&#10;updating">
+      <created>1611757489199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611757489199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'Mockito' of https://github.com/VankayalapatiSiri/JavaAssignments into Mockito&#10;&#10;# Conflicts:&#10;#&#9;Mockito/target/test-classes/com/maersk/mock/MockitoTest.class&#10;updating">
+      <created>1611757555184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611757555184</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,5 +130,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'Mockito' of https://github.com/VankayalapatiSiri/JavaAssignments into Mockito&#10;&#10;# Conflicts:&#10;#&#9;Mockito/target/test-classes/com/maersk/mock/MockitoTest.class&#10;updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'Mockito' of https://github.com/VankayalapatiSiri/JavaAssignments into Mockito&#10;&#10;# Conflicts:&#10;#&#9;Mockito/target/test-classes/com/maersk/mock/MockitoTest.class&#10;updating" />
   </component>
 </project>
